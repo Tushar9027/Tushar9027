@@ -1,7 +1,7 @@
 ![logo](https://github.com/Tushar9027/Tushar9027/blob/main/images%20gif.jpeg)
 <h1 align="center">Hi 👋, I'm Tushar Sharma</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw3NaJfUh8VhIAmI1Nv6pMBI&ust=1691306351239000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCIlqT9xIADFQAAAAAdAAAAABAN">
+<img align="right" alt="coding" width="400" src="https://cdn.vox-cdn.com/thumbor/0AnrHamN46EqpzPyunj8SMSjYD8=/0x0:480x270/1400x933/filters:focal(202x97:278x173):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72170232/lofiboygif.6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar9027&label=Profile%20views&color=0e75b6&style=flat" alt="tushar9027" /> </p>
 
 - 🌱 I’m currently learning **B.Tech (4 year) Information Technology**
